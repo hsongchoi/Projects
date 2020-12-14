@@ -48,5 +48,5 @@ Using wavelet-based tools, we developed a new testing modality for an early dete
     * Only intensity data from 4001 to 13001 were used.
 
 ### Analysis
-  * Using Wavelet based log spectrum with a specific filter, we estimated the slopes for $2^10$ data packet.
+  * Using Wavelet based log spectrum with a specific filter, we estimated the slopes for <img src="https://latex.codecogs.com/gif.latex?2^10" />  data packet.
   
