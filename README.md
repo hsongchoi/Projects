@@ -90,6 +90,9 @@ Using wavelet-based tools, we developed a new testing modality for an early dete
  </p>
  
   ### Conclusion
+  * We infer that the audience is positively biased and tends to give a higher rating than critics do. This is evident from the high positive bias if IMDB and Rotten Tomatoes (Audience score) and negative bias of Rotten Tomatoes (Critic score) and Metacritic
+  * The “true rating” of the movie is proportional to the average rating of all the reviewing websites which is consistent with our modeling assumptions
+  * We estimate the true value of a movie from the elastic net model. Since the values of the covariates in the elastic net model are available before the movie is released and we already know the bias of each reviewing website, we can predict the rating of any movie on each of the nation’s top 5 reviewing website even before the movie is released.
   * The following table compares our estimated ratings with the actual ratings. We observed that our estimated ratings were close to the actual ratings on each of the reviewing websites. The average mean square error in our estimation was 0.47.
     <br/>
 <p align="center">
