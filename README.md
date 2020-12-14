@@ -5,7 +5,8 @@
 | URLs | Description |
 |--------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | [Spatial-prediction-on-Airbnb](https://github.com/hsongchoi/Projects/tree/master/Spatial-prediction-on-Airbnb) | Predicted the optimal price of Airbnb listings in New York City by using the spatial basis function model. Compared MSE of our method with that of simple, Ridge, and Lasso regression. Verified how the spatial basis function expansion is accurate for the prediction of the price of Airbnb.  |
-| [Korean-Equity-Duration-Puzzle](https://github.com/hsongchoi/Publications/tree/master/Korean-Equity-Duration-Puzzle) | Examined equity duration, the sensitivity of the stock prices to interest rate changes in the Korean market. |
+| [ovarian](https://github.com/hsongchoi/Projects/tree/master/ovarian) | Developed a new testing modality for an early detection of ovarian cancer. |
+| [Intrinsic-values-of-movies](https://github.com/hsongchoi/Projects/tree/master/Intrinsic-values-of-movies) | Develped the model to estimate the movie rating before the movie is relased.
 
 
 
@@ -13,4 +14,9 @@
 
 * [Spatial Prediction on Airbnb in New York City](#Spatial)
     * [Abstract](#abstract)
-* [EQUITY DURATION PUZZLE AND INVESTORS' DEMANDS: EVIDENCE FROM KOREA](#equityduration)
+* [Assessment of Regularity in Protein mass spectra by Wavelet-based tools with Application in Diagnostics of Ovarian cancer](#overian)\
+* [Unearth the intrinsic value of movies](#movies)
+
+
+### Spatial Prediction on Airbnb in New York City
+
