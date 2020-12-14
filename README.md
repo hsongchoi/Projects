@@ -13,7 +13,7 @@
 ## Index
 
 * [Spatial Prediction on Airbnb in New York City](#Spatial-Prediction-on-Airbnb-in-New-York-City)
-* [Assessment of Regularity in Protein mass spectra by Wavelet-based tools with Application in Diagnostics of Ovarian cancer](#overian)\
+* [Assessment of Regularity in Protein mass spectra by Wavelet-based tools with Application in Diagnostics of Ovarian cancer](#overian)
 * [Unearth the intrinsic value of movies](#movies)
 
 
