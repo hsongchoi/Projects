@@ -84,10 +84,14 @@ Using wavelet-based tools, we developed a new testing modality for an early dete
   * We used this true value to develop an elastic net model, which enables us to estimate the “true” value of an unreleased movie.
   * We added the true value of the movie to the bias of the movie-rating group to predict the rating of the movie with respect to the corresponding group.
   * We estimated the rating of an unreleased movie with the following equation. We found true values of movies using the elastic-net model and obtained the bias of the rating-website using the EM algorithm.
-  
   <br/>
 <p align="center">
-  <img width="1503" alt="equation" src="https://user-images.githubusercontent.com/68215937/102108819-3d97d600-3de8-11eb-88e4-3de3986eafae.PNG">
+  <img width="1200" alt="equation" src="https://user-images.githubusercontent.com/68215937/102108819-3d97d600-3de8-11eb-88e4-3de3986eafae.PNG">
  </p>
  
   ### Conclusion
+  * The following table compares our estimated ratings with the actual ratings. We observed that our estimated ratings were close to the actual ratings on each of the reviewing websites. The average mean square error in our estimation was 0.47.
+    <br/>
+<p align="center">
+  <img width="1317" alt="result_movie" src="https://user-images.githubusercontent.com/68215937/102109534-04139a80-3de9-11eb-8470-fc47c76e8100.PNG">
+   </p>
