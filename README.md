@@ -13,7 +13,7 @@
 ## Index
 
 * [Spatial Prediction on Airbnb in New York City](#Spatial-Prediction-on-Airbnb-in-New-York-City)
-* [Assessment of Regularity in Protein mass spectra by Wavelet-based tools with Application in Diagnostics of Ovarian cancer](#overian)
+* [Assessment of Regularity in Protein mass spectra by Wavelet-based tools with Application in Diagnostics of Ovarian cancer](#Assessment-of-Regularity-in-Protein-mass-spectra-by Wavelet-based-tools-with-Application-in-Diagnostics-of-Ovarian-cancer)
 * [Unearth the intrinsic value of movies](#movies)
 
 
@@ -27,3 +27,4 @@
  * Compared MSE of our method with that of simple, Ridge, and Lasso regression.
  * Verified how the spatial basis function expansion is accurate for the prediction of the price of Airbnb. 
 
+## Assessment of Regularity in Protein mass spectra by Wavelet-based tools with Application in Diagnostics of Ovarian cancer
