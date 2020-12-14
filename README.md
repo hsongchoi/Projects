@@ -32,7 +32,7 @@
 
 <br/>
 <p align="center">
-  <img width="1211" alt="ovarian" src="https://user-images.githubusercontent.com/68215937/102039544-080ad280-3d7f-11eb-8fa6-5e0d0a1e29db.PNG">
+  <img width="900" alt="ovarian" src="https://user-images.githubusercontent.com/68215937/102039544-080ad280-3d7f-11eb-8fa6-5e0d0a1e29db.PNG">
 </p>
 
 Using wavelet-based tools, we developed a new testing modality for an early detection of ovarian cancer.
@@ -91,7 +91,7 @@ Using wavelet-based tools, we developed a new testing modality for an early dete
   * We estimated the rating of an unreleased movie with the following equation. We found true values of movies using the elastic-net model and obtained the bias of the rating-website using the EM algorithm.
   <br/>
 <p align="center">
-  <img width="1200" alt="equation" src="https://user-images.githubusercontent.com/68215937/102108819-3d97d600-3de8-11eb-88e4-3de3986eafae.PNG">
+  <img width="1000" alt="equation" src="https://user-images.githubusercontent.com/68215937/102108819-3d97d600-3de8-11eb-88e4-3de3986eafae.PNG">
  </p>
  
   ### Conclusion
