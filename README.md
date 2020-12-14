@@ -60,7 +60,7 @@ Using wavelet-based tools, we developed a new testing modality for an early dete
 ### Conclusion
 <br/>
 <p align="center">
-  <img width="1171" alt="haar_filter" src="https://user-images.githubusercontent.com/68215937/102104514-1ee31080-3de3-11eb-87d1-166119f42154.PNG">
+  <img width="800" alt="haar_filter" src="https://user-images.githubusercontent.com/68215937/102104514-1ee31080-3de3-11eb-87d1-166119f42154.PNG">
 </p>
 
   * We achieved 90.6% accurate classification rate.
@@ -71,10 +71,10 @@ Using wavelet-based tools, we developed a new testing modality for an early dete
   ## Unearth the intrinsic value of movies
   
   ### Background
-    <br/>
+  <br/>
 <p align="center">
-    <img width="862" alt="movierating" src="https://user-images.githubusercontent.com/68215937/102110431-00344800-3dea-11eb-8083-d96a872063d9.PNG">
-    </p> 
+    <img width="600" alt="movierating" src="https://user-images.githubusercontent.com/68215937/102110431-00344800-3dea-11eb-8083-d96a872063d9.PNG">
+  </p> 
   Movies are primarily a source of entertainment. In today’s busy world where people have limited time for entertainment, they should not be disappointed when they take out some time to watch a movie. Public and critics rates of movies as soon as they released help people to make a choice on the movie they want to watch. However, these ratings take time to stabilize. As soon as the movie releases, people who are film enthusiasts of the particular genre of the movie or the star cast usually rate it. Therefore, it is obvious that they tend to give a higher rating to the movie that skews the movie ratings. Among the critic-rating websites as well, the ratings of the movie keep changing until a large number of critics have rated it. This inspired us to address the problem of predicting the stabilized rating of a movie just before the movie is released.
   
   ### Data
