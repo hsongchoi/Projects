@@ -75,7 +75,19 @@ Using wavelet-based tools, we developed a new testing modality for an early dete
   
   ### Data
   https://data.world/data-society/imdb-5000-movie-dataset  
-  Dataset originally contains more than 5000 movies released from the year 1916 to 2016 in 66 countries. The data scientist who provided this data-set, conducted a scraping by using a Python library called “Scrapy”. Data-set contains many important movie information, scraped from IMDB website. (e.g. movie title, director, name, cast list, genres, name of actors etc). Our purpose is to collect the data from as many movie reviewing websites as possible, so that we can get the bias of each websites and provide audiences with reliably estimated scores of unreleased movies on each websites. We randomly chose 30 out of 5000 movies, which were released since 2012, and collected ratings from 5 nation’s biggest movie reviewing websites: Rotten tomatoes (Audiences, Critiques), Flixter, Metacritic, MRQE, IMDB. In order to build a regression model, we needed to introduce dummy variables to categorical variables like color, which indicates whether the movie is black or colored movie, genre, language, country, content_rating. Since there were no directors or actors, who shoot two or more different movies, out of our 30 selected movies, we did not take into account these factors while building regression model.
+  Dataset originally contains more than 5000 movies released from the year 1916 to 2016 in 66 countries. The data scientist who provided this data-set, conducted a scraping by using a Python library called “Scrapy”. Data-set contains many important movie information, scraped from IMDB website. (e.g. movie title, director, name, cast list, genres, name of actors etc).  
+  Our purpose is to collect the data from as many movie reviewing websites as possible, so that we can get the bias of each websites and provide audiences with reliably estimated scores of unreleased movies on each websites. We randomly chose 30 out of 5000 movies, which were released since 2012, and collected ratings from 5 nation’s biggest movie reviewing websites: Rotten tomatoes (Audiences, Critiques), Flixter, Metacritic, MRQE, IMDB.  
+  In order to build a regression model, we needed to introduce dummy variables to categorical variables like color, which indicates whether the movie is black or colored movie, genre, language, country, content_rating. Since there were no directors or actors, who shoot two or more different movies, out of our 30 selected movies, we did not take into account these factors while building regression model.
   
   ### Analysis
+  * we built an EM model to find the bias of each movie rating groups and the “true” value of the movie.
+  * We used this true value to develop an elastic net model, which enables us to estimate the “true” value of an unreleased movie.
+  * We added the true value of the movie to the bias of the movie-rating group to predict the rating of the movie with respect to the corresponding group.
+  * We estimated the rating of an unreleased movie with the following equation. We found true values of movies using the elastic-net model and obtained the bias of the rating-website using the EM algorithm.
   
+  <br/>
+<p align="center">
+  <img width="1503" alt="equation" src="https://user-images.githubusercontent.com/68215937/102108819-3d97d600-3de8-11eb-88e4-3de3986eafae.PNG">
+ </p>
+ 
+  ### Conclusion
