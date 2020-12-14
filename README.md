@@ -4,6 +4,7 @@
 
 | URLs | Description |
 |--------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| [IRPLS-TensorGLR](https://github.com/hsongchoi/Projects/tree/master/IRPLS-TensorGLR) | Developed a Partial Least Squares (PLS) estimation for tensor generalized linear regression.  |
 | [Spatial-prediction-on-Airbnb](https://github.com/hsongchoi/Projects/tree/master/Spatial-prediction-on-Airbnb) | Predicted the optimal price of Airbnb listings in New York City by using the spatial basis function model.  |
 | [ovarian](https://github.com/hsongchoi/Projects/tree/master/ovarian) | Developed a new testing modality for an early detection of ovarian cancer. |
 | [Intrinsic-values-of-movies](https://github.com/hsongchoi/Projects/tree/master/Intrinsic-values-of-movies) | Develped the model to estimate the movie rating before the movie is relased. |
@@ -11,7 +12,7 @@
 
 
 ## Index
-
+* [Iteratively Reweighted PLS Estimation for Tensor Generalized Linear Regression](#Iteratively-Reweighted-PLS-Estimation-for-Tensor-Generalized-Linear-Regression)
 * [Spatial Prediction on Airbnb in New York City](#Spatial-Prediction-on-Airbnb-in-New-York-City)
 * [Assessment of Regularity in Protein mass spectra in Diagnostics of Ovarian cancer](#Assessment-of-Regularity-in-Protein-mass-spectra-in-Diagnostics-of-Ovarian-cancer)
 * [Unearth the intrinsic value of movies](#Unearth-the-intrinsic-value-of-movies)
