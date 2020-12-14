@@ -66,4 +66,4 @@ Using wavelet-based tools, we developed a new testing modality for an early dete
   * We achieved 90.6% accurate classification rate.
   * We conducted classification analysis based on the wavelet based log spectrum.
   * From the logistic classification model, we found that Hurst exponent has the ability to discriminate cancer and control subjects.
-
+  * We can validate this method to find patterns of reproducible diagnostic value and contribute to the Ovarian cancer analysis.
