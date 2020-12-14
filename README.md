@@ -17,6 +17,8 @@
 * [Assessment of Regularity in Protein mass spectra in Diagnostics of Ovarian cancer](#Assessment-of-Regularity-in-Protein-mass-spectra-in-Diagnostics-of-Ovarian-cancer)
 * [Unearth the intrinsic value of movies](#Unearth-the-intrinsic-value-of-movies)
 
+## Iteratively Reweighted PLS Estimation for Tensor Generalized Linear Regression
+ * Here are the [Full Text](https://github.com/hsongchoi/Projects/blob/master/IRPLS-TensorGLR/Final_report.pdf) and the [Slides](https://github.com/hsongchoi/Projects/blob/master/IRPLS-TensorGLR/Slides.pdf) for the project.
 
 ## Spatial Prediction on Airbnb in New York City
 
