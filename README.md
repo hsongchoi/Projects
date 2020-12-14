@@ -49,4 +49,21 @@ Using wavelet-based tools, we developed a new testing modality for an early dete
 
 ### Analysis
   * Using Wavelet based log spectrum with a specific filter, we estimated the slopes for <img src="https://latex.codecogs.com/gif.latex?2^{10}" />  data packet.
+  * Log spectrums are regularly decreasing after dyadic level 5.
+  * After obtaining the Hurst exponents matrix, we calculated the absolute difference of means between Cancer and Control case.
+  * We ran a logistic regression with 10 variables selected based on the absolute difference.
+  * We randomly selected 67% of the data as a training data in order to create a classifier. Then we used the remaining 33% of the data to test performance.
+  * We fitted a logistic regression model on training data and classified the test data 1000 times.
+  * Additionally, we tested whether the true responses (Cancer:1 and Control:0) are same as the fitted values through the Wilcoxon Sum Rank procedure 1000 times.
+  * We also tested We tested 5 filter with 1000 steps, and chose the Haar filter.
   
+### Conclusion
+<br/>
+<p align="center">
+  <img width="1171" alt="haar_filter" src="https://user-images.githubusercontent.com/68215937/102104514-1ee31080-3de3-11eb-87d1-166119f42154.PNG">
+</p>
+
+  * We achieved 90.6% accurate classification rate.
+  * We conducted classification analysis based on the wavelet based log spectrum.
+  * From the logistic classification model, we found that Hurst exponent has the ability to discriminate cancer and control subjects.
+
