@@ -133,5 +133,5 @@ d
 d
 
 
-### Spatial Prediction on Airbnb in New York City
+## Spatial Prediction on Airbnb in New York City
 
