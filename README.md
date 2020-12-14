@@ -18,7 +18,8 @@
 * [Unearth the intrinsic value of movies](#Unearth-the-intrinsic-value-of-movies)
 
 ## Iteratively Reweighted PLS Estimation for Tensor Generalized Linear Regression
- * Here are the [Full Text](https://github.com/hsongchoi/Projects/blob/master/IRPLS-TensorGLR/Final_report.pdf) and the [Slides](https://github.com/hsongchoi/Projects/blob/master/IRPLS-TensorGLR/Slides.pdf) for the project.
+
+Here are the [Full Text](https://github.com/hsongchoi/Projects/blob/master/IRPLS-TensorGLR/Final_report.pdf) and the [Slides](https://github.com/hsongchoi/Projects/blob/master/IRPLS-TensorGLR/Slides.pdf) for the project.
 
 ## Spatial Prediction on Airbnb in New York City
 
@@ -26,6 +27,8 @@
 <p align="center">
   <img width="600" alt="Price_NYC" src="https://user-images.githubusercontent.com/68215937/102038266-a85ef800-3d7b-11eb-9a61-a019d82389c8.PNG">
 </p>
+
+Here is the [Full Text](https://github.com/hsongchoi/Projects/blob/master/Spatial-prediction-on-Airbnb/Report.pdf) for the project.
 
  * Predicted the optimal price of Airbnb listings in New York City by applying the spatial basis function model.
  * Compared MSE of our method with that of simple, Ridge, and Lasso regression.
@@ -38,7 +41,8 @@
   <img width="900" alt="ovarian" src="https://user-images.githubusercontent.com/68215937/102039544-080ad280-3d7f-11eb-8fa6-5e0d0a1e29db.PNG">
 </p>
 
-Using wavelet-based tools, we developed a new testing modality for an early detection of ovarian cancer.
+Using wavelet-based tools, we developed a new testing modality for an early detection of ovarian cancer.  
+Here is the [Slides](https://github.com/hsongchoi/Projects/blob/master/ovarian/Slides_Ovarian%20Cancer%20data%20analysis.pdf) for the project.
 
 ### Background
   * Unlike other cancers, mortality rates for OC have declined only slightly since 1971 because of the unavailability of early detection tests and treatments.
@@ -72,6 +76,8 @@ Using wavelet-based tools, we developed a new testing modality for an early dete
   * We can validate this method to find patterns of reproducible diagnostic value and contribute to the Ovarian cancer analysis.
   
   ## Unearth the intrinsic value of movies
+  
+  Here are the [Full Text](https://github.com/hsongchoi/Projects/blob/master/Intrinsic-values-of-movies/Final%20report.pdf) and the [Slides](https://github.com/hsongchoi/Projects/blob/master/Intrinsic-values-of-movies/Slides.pdf) for the project.
   
   ### Background
   <br/>
